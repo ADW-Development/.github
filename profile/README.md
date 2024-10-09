@@ -6,4 +6,4 @@ Founded in 2024, ADW Development makes anything possible from 3D to 2D. Everythi
 
 Ever since it was founded, ADW Development has been expanding, even outside of Scratch. We continue to create mind-blowing open-source programs for all.
 
-`This is WIP ⛏️⛏️⚒️🪧🪮`
+|This is WIP ⛏️⛏️⚒️🪧🪮|
